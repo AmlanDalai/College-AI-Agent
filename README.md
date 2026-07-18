@@ -103,8 +103,8 @@ NIT-rourkela-AI-agent-assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Iamsaikumar14/NIT-rourkela-AI-agent-assistant.git
-cd NIT-rourkela-AI-agent-assistant
+git clone https://github.com/AmlanDalai/College-AI-Agent.git
+cd College-AI-Agent
 ```
 
 ### 2. Set up a virtual environment
